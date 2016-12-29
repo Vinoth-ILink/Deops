@@ -25,3 +25,5 @@ C:\QA\Devops_Ticket Prediction\bin\Debug\WebDriver.xml
 C:\QA\Devops_Ticket Prediction\bin\Debug\WebDriver.Support.xml
 C:\QA\Devops_Ticket Prediction\obj\Debug\Devops_Ticket Prediction.dll
 C:\QA\Devops_Ticket Prediction\obj\Debug\Devops_Ticket Prediction.pdb
+C:\Latest\Deops\Deops\obj\Debug\Devops_Ticket Prediction.dll
+C:\Latest\Deops\Deops\obj\Debug\Devops_Ticket Prediction.pdb

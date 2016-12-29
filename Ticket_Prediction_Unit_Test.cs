@@ -16,7 +16,7 @@ namespace Devops_Ticket_Prediction
             Global.Driver.Navigate().GoToUrl("https://frameworkstore.ilink-systems.com/TicketsWeb/App/index.html#/ticket");
             Global.Driver.Manage().Window.Maximize();
 
-            Extentions.WaitForPageLoad(60);
+            Extentions.WaitForPageLoad(100);
         }
         [TestMethod]
         [TestCategory("Ticket Prediction Login")]
